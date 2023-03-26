@@ -333,7 +333,7 @@ section:nth-child(2n + 1) {
     height: 100%;
     color: transparent;
     text-align: center;
-    padding: 10px;
+    padding: 64px;
 }
 
 .portfolio-image-container:hover {
